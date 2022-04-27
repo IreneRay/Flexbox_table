@@ -23,6 +23,12 @@ main {
     gap: 10px;
 }
 
+.left_block {
+    border: 1px solid black;
+    gap: 10px;
+    background-color: bisque;
+}
+
 .left_block:first-child {
     /* width: 50%; */
     flex-grow: 1;
